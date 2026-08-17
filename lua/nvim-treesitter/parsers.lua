@@ -337,7 +337,7 @@ return {
   },
   daml = {
     install_info = {
-      revision = 'b49874f2b88b571299be3f7911e5bcccdf76787b',
+      revision = 'c618813eadc30e7d6aea862cac5aa30bf621e7be',
       url = 'https://github.com/patrickaldis/tree-sitter-daml',
     },
     maintainers = { '@patrickaldis' },

@@ -335,6 +335,14 @@ return {
     maintainers = { '@amaanq' },
     tier = 2,
   },
+  daml = {
+    install_info = {
+      revision = 'b49874f2b88b571299be3f7911e5bcccdf76787b',
+      url = 'https://github.com/patrickaldis/tree-sitter-daml',
+    },
+    maintainers = { '@patrickaldis' },
+    tier = 2,
+  },
   dart = {
     install_info = {
       revision = 'be07cf7118d3dba06236a3f19541685a68209934',
